@@ -1,1 +1,1 @@
-# Monograf-a_John_Maeda
+# Monografía_John_Maeda
