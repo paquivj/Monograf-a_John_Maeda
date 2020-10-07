@@ -1,3 +1,3 @@
 # Monografía_John_Maeda
 
-monografia_jhon_maeda.pdf
+[monografía_jhon_maeda](monografia_jhon_maeda.pdf)
